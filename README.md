@@ -109,8 +109,18 @@ Em conjunto, esses elementos permitem que a organização aprenda continuamente,
 Por fim trago os resultados do mini guia:
 
 - Um **resumo em PDF** sobre Gestão de Processos Administrativos;
+
+[Resumo Gestão de Processos Administrativos.pdf](https://github.com/user-attachments/files/30158260/Resumo.Gestao.de.Processos.Administrativos.pdf)
+
 -  Um **glossário em PDF** com os principais conceitos estudados;
--  Uma coleção de **prompts** para auxiliar em revisões e aprofundamento do conteúdo utilizando IA.
+
+[Glossário.pdf](https://github.com/user-attachments/files/30158257/Glossario.pdf)
+
+-  Alguns **prompts** para auxiliar em revisões e aprofundamento do conteúdo;
+
+[Prompts.pdf](https://github.com/user-attachments/files/30158264/Prompts.pdf)
+
+
 
 
 
