@@ -1,4 +1,4 @@
-# Miniguia-de-gest-o-administrativa-notebooklm
+# Miniguia-de-gestão-administrativa-notebooklm
 
 ## Contexto
 
